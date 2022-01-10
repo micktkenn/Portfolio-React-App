@@ -30,7 +30,7 @@ const Logo = () => {
                         fontWeight="bold"
                         ml={3}
                     >
-                        Dylan Hudson Development
+                        Milkessa Tesso
                     </Text>
                 </LogoBox>
             </a>
