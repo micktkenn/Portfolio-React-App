@@ -28,9 +28,9 @@ const Page = () => {
                 <Box display={{md:'flex'}}>
                     <Box flexGrow={1}>
                         <Heading as="h2" variant="page-title">
-                            Dylan Hudson
+                            Milkessa Tesso
                         </Heading>
-                        <p>Junior Software Developer ( Java  |  C#  |  JavaScript )</p>
+                        <p>Full-Stack Software Developer ( Java  |  Python  |  JavaScript | PHP | C | C++ | Ruby )</p>
                     </Box>
                 </Box>
                 <br/>
@@ -38,7 +38,7 @@ const Page = () => {
                     <Heading as="h3" variant="section-title">
                         About Me:
                     </Heading>
-                    <Paragraph>Dylan is a junior full-stack developer in Yorkshire. He has 
+                    <Paragraph>Milkessa is a full-stack developer based in Addis Ababa. He has 
                         a First Class Batchelors degree in Computing and has worked on a number 
                         of different platforms with a variety of technologies. He is experienced 
                         with the full software development lifecycle, both  the design and 
