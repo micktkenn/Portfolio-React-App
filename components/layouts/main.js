@@ -8,11 +8,11 @@ const Main = ({ children, router }) => {
         <Box as="main" pb={8}>
             <Head>
                 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-                <meta name="description" content="Dylan's homepage" />
-                <meta name="author" content="Dylan" />
-                <meta property="og:site_name" content="Dylan's homepage" />
+                <meta name="description" content="Milkessa's homepage" />
+                <meta name="author" content="Milkessa" />
+                <meta property="og:site_name" content="Milkessa's homepage" />
                 <meta property="og:type" content="website" />
-                <title>Dylan - Homepage</title>
+                <title>Milkessa - Homepage</title>
             </Head>
 
             <Navbar path={router.asPath}/>
